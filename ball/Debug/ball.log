@@ -1,0 +1,9 @@
+﻿  game.cpp
+c:\users\94229\desktop\ball\game.cpp(12): warning C4309: “参数”: 截断常量值
+c:\users\94229\desktop\ball\game.cpp(24): warning C4309: “参数”: 截断常量值
+c:\users\94229\desktop\ball\game.cpp(25): warning C4309: “参数”: 截断常量值
+c:\users\94229\desktop\ball\game.cpp(26): warning C4309: “参数”: 截断常量值
+c:\users\94229\desktop\ball\game.cpp(27): warning C4309: “参数”: 截断常量值
+c:\users\94229\desktop\ball\game.cpp(28): warning C4309: “参数”: 截断常量值
+c:\users\94229\desktop\ball\game.cpp(29): warning C4309: “参数”: 截断常量值
+  ball.vcxproj -> C:\Users\94229\Desktop\ball\Debug\ball.exe
